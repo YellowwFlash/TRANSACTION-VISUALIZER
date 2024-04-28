@@ -2,20 +2,20 @@
 Unleash the Data Kraken : A Transaction Visualizer That Bites Back!
 Tired of data-wrangling turning into a hairball of spaghetti code? Fear not, intrepid explorer! This Java project wrestles those writhing transactions into a visually stunning map, illuminating hidden cycles like flashlights in a shipwreck.
 
-Prepare to:
+# Prepare to:
 
 Craft your chaos: Tell your own data-dance saga with custom transactions.
 Slay the cycle beast: Read-write conflicts cower before your discerning algorithms.
 Witness the Kraken unfurl: Bask in the mesmerizing flow of your transaction trail.
 Rewind time with savepoints: Tangled tentacles? No worries, just hop back to a calmer eddy.
 
-Beneath the shimmering surface:
+# Beneath the shimmering surface:
 
 Doubly linked lists, your loyal steeds: Track operations with these trusty companions.
 Custom visualization, your artistic playground: Paint the data Kraken in whatever style your heart desires.
 Savepoint sorcery: Undo mistakes like a time-bending wizard.
 
-Dive into the data depths:
+# Dive into the data depths:
 
 Summon the TransactionVisualizer kraken.
 Weave your transaction yarn with intuitive prompts.
