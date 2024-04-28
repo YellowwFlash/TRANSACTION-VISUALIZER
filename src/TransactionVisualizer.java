@@ -84,7 +84,7 @@ public class TransactionVisualizer {
 
     public void rollBack(int count) {
         if (count > this.count) {
-            System.out.println("This operation is certainly not possible due to uneven number of savepoints created!!");
+            System.out.println("This operation is certainly not possible due to un-even number of savepoints created!!");
         }
 
         Node1 temp = head1;
